@@ -1,0 +1,35 @@
+.background{
+
+	background-image: url('https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg');
+	height: 500px;
+	background-size: cover;
+	background-position:center;
+	background-repeat: no-repeat;
+}
+
+.heading123{
+	color: red;
+	text-align: center;
+	height: auto;
+	border-style: solid;
+	border-color: greenyellow;
+}
+
+.paragraph123{
+	color: blue;
+	text-align: left;
+}
+
+.table{
+	background-color: transparent;
+	text-align: center;
+	color: yellowgreen;
+	height: 80%;
+	width: 25%;
+	margin: !important
+}
+
+.form{
+	color: lightyellow;
+	text-align: left;
+}
